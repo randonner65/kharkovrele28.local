@@ -1,0 +1,34 @@
+User-agent: *
+Disallow: /blocs/*.php
+Disallow: /classes
+Disallow: /scc
+Disallow: /fonts
+Disallow: /images
+Disallow: /js
+Disallow: /lib
+Disallow: /scripts
+Disallow: /search_scheme
+Disallow: /styles
+Disallow: /switcher/MPDF57
+Allow:    /pages/order_switcher/order_switcher.php
+Disallow: /pages
+
+Sitemap: http://khrl.com.ua/sitemap.xml
+
+User-agent: Yandex
+Disallow: /blocs/*.php
+Disallow: /classes
+Disallow: /scc
+Disallow: /fonts
+Disallow: /images
+Disallow: /js
+Disallow: /lib
+Disallow: /scripts
+Disallow: /search_scheme
+Disallow: /styles
+Disallow: /switcher/MPDF57
+Allow:    /pages/order_switcher/order_switcher.php
+Disallow: /pages
+
+Host: khrl.com.ua
+Sitemap: http://khrl.com.ua/sitemap.xml
